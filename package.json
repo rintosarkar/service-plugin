@@ -1,11 +1,11 @@
 {
     "name": "service-plugin",
-    "version": "0.1.5",
+    "version": "0.1.0",
     "description": "Vue-cli 3 plugin for adding RxJS support to project using vue-rx",
     "main": "index.js",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/NataliaTepluhina/vue-cli-plugin-rx.git"
+      "url": "git+https://github.com/rintosarkar/service-plugin.git"
     },
     "keywords": [
       "vue",
@@ -13,7 +13,7 @@
       "rxjs",
       "vue-rx"
     ],
-    "author": "Natalia Tepluhina <my@mail.com>",
+    "author": "Rinto Sarkar <rinto.sp@gmail.com>",
     "license": "MIT",
-    "homepage": "https://github.com/NataliaTepluhina/vue-cli-plugin-rx#readme"
+    "homepage": "https://github.com/rintosarkar/service-plugin#readme"
   }
